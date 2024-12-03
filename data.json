@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "description": "A software developer from NY",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "description": "A graphic designer from LA",
+      "email": "janesmith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "description": "A product manager from Chicago",
+      "email": "alicejohnson@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "description": "A UX designer from Seattle",
+      "email": "bobbrown@example.com"
+    }
+  ]
+  
